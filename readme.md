@@ -1,5 +1,5 @@
-![CI-swarm](https://github.com/XXXXXX/spring-petclinic/workflows/CI-swarm/badge.svg)
-# Spring PetClinic Sample Application
+
+# Spring PetClinic Sample Application![CI-swarm](https://github.com/XXXXXX/spring-petclinic/workflows/CI-swarm/badge.svg)
 ## Understanding the Spring Petclinic application with a few diagrams
 <a href="https://speakerdeck.com/michaelisvy/spring-petclinic-sample-application">See the presentation here</a>
 
